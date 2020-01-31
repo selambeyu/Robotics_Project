@@ -17,7 +17,7 @@ $ source devel/setup.bash
 
 launch the robot into gazebo sim
 
-''' roslaunch wheel_robot spawn.launch '''
+''' roslaunch Robotic_Project spawn.launch '''
 
 then run the plugin
 ''' rosrun teleop_twist_keyboard teleop_twist_keyboard '''
