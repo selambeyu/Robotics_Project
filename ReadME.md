@@ -4,11 +4,7 @@ robot having 2 caster wheels and 2 sensors (camera and laser). we have used pyth
 # launch
 
 first clone the repo
-'''git clone https://github.com/ezedinff/wheel_robot.git'''
-then clone the plugin we made to drive the robot around using keyboard.
-'''
-    git clone https://github.com/ezedinff/teleop_twist_keyboard.git
-'''
+'''git clone https://github.com/selambeyu/Robotics_Project.git'''
 
 * inside catkin_ws/:
 ```sh
